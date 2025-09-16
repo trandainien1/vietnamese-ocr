@@ -1,6 +1,7 @@
-numpy<2.0.0
+#numpy<2.0.0
 einops==0.2.0
 paddlepaddle
 pyclipper
 lmdb
-imgaug
+#imgaug
+vietocr
